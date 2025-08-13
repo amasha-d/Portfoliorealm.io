@@ -7736,7 +7736,7 @@ textarea.form-control-lg {
 
 .border-primary {
   --bs-border-opacity: 1;
-  border-color: rgba(var(--bs-primary-rgb), var(--bs-border-opacity)) !important;
+  border-color: rgba(var(--bs-primary), var(--bs-border-opacity)) !important;
 }
 
 .border-secondary {
@@ -9894,7 +9894,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  background-color: rgba(var(--bs-primary), var(--bs-bg-opacity)) !important;
 }
 
 .bg-secondary {
